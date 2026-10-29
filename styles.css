@@ -1,17 +1,17 @@
 /*  your css code here. If applicable */
-.p1{
+#p1{
 	height: 20px;
 	width: 100%;
 	background-color: yellow;
 	border: 1px solid green;
 }
-.p2{
+#p2{
 	height: 20px;
 	width: 100%;
 	background-color: red;
 	border: 1px solid black;
 }
-.p3{
+#p3{
 	height: 20px;
 	width: 100%;
 	background-color: green;
